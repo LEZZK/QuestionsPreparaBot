@@ -288,10 +288,7 @@
                 : '⚠ Nenhuma questão encontrada'
         }</div>
 
-        <div id="QapSplashNWrap">
-            <div id="QapSplashN">N</div>
-            <div id="QapSplashNLine"></div>
-        </div>
+        
     `;
     document.body.appendChild(SplashEl);
 
